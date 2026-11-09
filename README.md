@@ -16,5 +16,5 @@ Utilizado: [Angular](https://angular.dev/) [](https://laravel.com/)
 
 
 Partes del proyecto:
-- Frontend: [](https://github.com/CyberWachi/Underground-Sounds-Frontend-Angular)
+- Frontend: [Front](https://github.com/CyberWachi/Underground-Sounds-Frontend-Angular)
 - Backend: [](https://github.com/CyberWachi/Underground-Sounds-Backend-Laravel-)
