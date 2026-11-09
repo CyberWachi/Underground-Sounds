@@ -12,7 +12,7 @@ Todas las funciones deberían estar disponibles, variables según petición.
 
 Actualmente las publicaciones en un perfil de artista y los guardados en favoritos son en tiempo real con gestión de Observables.
 
-Utilizado: [](https://angular.dev/) [](https://laravel.com/)
+Utilizado: [Angular](https://angular.dev/) [](https://laravel.com/)
 
 
 Partes del proyecto:
